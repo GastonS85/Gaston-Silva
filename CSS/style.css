@@ -1,3 +1,5 @@
+
+
 .bg-violet{
     background-color: rgba(238, 188, 247, .7);
 }
@@ -94,5 +96,10 @@
 }
 
 
+.carouselExampleSlidesOnly{
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
 
  
